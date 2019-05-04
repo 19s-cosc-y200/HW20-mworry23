@@ -1,39 +1,28 @@
 */
 Project Name: Hands-On Exercises 6.1-6.3
 Author: Megan Worry 
-Date Last Modified: April 25, 2019
+Date Last Modified: May 3, 2019
 /*
 
-1. p {
-	background-color: #F6F6CC;
-}
-p.padding {
-	padding-top: 20px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-	padding-left: 20px;
-
-	font-family: Verdana, Sans-Serif;
-	font-size: 1.15em;
-	
+1. #questionone {
+	float:left;
+	background-color: #EDE1D1;
+	font-family: Verdana, sans-serif;
+	font size: 1.15em;
+	padding: 20px;
 }
 
 2. h1.dotted {
 	border-bottom: 1px dashed #999;
 	text decoration: none;
-	color: green;
-	border-color: black;
+	color: #CB92E9;
+	border-color: #000000;
 )
 
-3. p {
-	background-color: lightgrey;
-}
-p.padding {
-	padding-top: 100px;
-	padding-right: 100px;
-	 position: absolute; 
+3. #questionthree {
+	background-color: #D3D3D3;
+	position: absolute; 
 	right: 40px;
 	top: 20px;
-
-	border-style: solid
+	border-style: 1px solid #000000;
 }
